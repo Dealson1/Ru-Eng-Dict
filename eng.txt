@@ -1,0 +1,15 @@
+﻿translator
+calendar
+fine
+money
+discipline
+computer
+credits
+parents
+board
+projector
+socket
+stop
+mouse
+carburetor
+CPU
